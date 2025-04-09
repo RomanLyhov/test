@@ -1,0 +1,7 @@
+C:\Users\arauh\source\repos\text\text\bin\Debug\text.exe.config
+C:\Users\arauh\source\repos\text\text\bin\Debug\text.exe
+C:\Users\arauh\source\repos\text\text\bin\Debug\text.pdb
+C:\Users\arauh\source\repos\text\text\obj\Debug\text.csproj.AssemblyReference.cache
+C:\Users\arauh\source\repos\text\text\obj\Debug\text.csproj.CoreCompileInputs.cache
+C:\Users\arauh\source\repos\text\text\obj\Debug\text.exe
+C:\Users\arauh\source\repos\text\text\obj\Debug\text.pdb
